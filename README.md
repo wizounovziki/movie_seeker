@@ -40,7 +40,7 @@ Our team had an amazing time working on this project, and hope to share our insi
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Wang Futong | A0191584W | Crawler, backend development, algorithm coding and model training| A1234567A@nus.edu.sg |
+| Wang Futong | A0191584W | Crawler, backend development, algorithm coding and model training| e0338228@u.nus.edu |
 | Ding Yuxing | A0186876E | Frontend development, backend api prototype design, modeling discussion and testing| e0321114@u.nus.edu |
 
 
