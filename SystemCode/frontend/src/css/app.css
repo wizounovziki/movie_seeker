@@ -1,0 +1,28 @@
+#root{
+  height: 100%;
+}
+.ant-layout{
+  height: 100%;
+
+}
+.ant-layout-footer{
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+.site-layout-content {
+    background: #fff;
+    padding: 24px;
+    min-height: 280px;
+  }
+  .ant-layout-content{
+    background-color: #fff;
+  }
+.logo {
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 24px 16px 0;
+    float: left;
+  }
+  

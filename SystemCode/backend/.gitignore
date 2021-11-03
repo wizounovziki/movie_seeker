@@ -1,0 +1,4 @@
+/venv
+/useless
+*.pyc
+voicefilter.db
