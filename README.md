@@ -1,5 +1,4 @@
-## SECTION 1 : PROJECT TITLE
-## Movie Seeker - Movie Recommender System
+## SECTION 1 : Movie Seeker - Movie Recommender System
 
 <img src="/SystemCode/frontend/public/WebBG.png"
      style="float: left; margin-right: 0px;" />
@@ -28,7 +27,7 @@ In this project, we build up a movie recommendation system using the knowledge a
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+[![Sudoku AI Solver](https://www.youtube.com/watch?v=Oy-dffrQq_Q "Sudoku AI Solver")
 
 ---
 
