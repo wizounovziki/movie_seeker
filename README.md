@@ -1,7 +1,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Movie Seeker - Movie Recommender System
 
-<img src="SystemCode/clips/static/hdb-bto.png"
+<img src="/SystemCode/frontend/public/WebBG.png"
      style="float: left; margin-right: 0px;" />
 
 ---
