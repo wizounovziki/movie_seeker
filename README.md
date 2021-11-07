@@ -27,7 +27,7 @@ In this project, we build up a movie recommendation system using the knowledge a
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](https://www.youtube.com/watch?v=Oy-dffrQq_Q "Sudoku AI Solver")[Sudoku AI Solver]
+[![Movie Seeker](Miscellaneous/youtube.png)](https://www.youtube.com/watch?v=bnuXC1wf6U4)
 
 ---
 
