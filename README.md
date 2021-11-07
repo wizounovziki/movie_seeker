@@ -27,7 +27,7 @@ In this project, we build up a movie recommendation system using the knowledge a
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Movie Seeker](Miscellaneous/youtube.png)](https://www.youtube.com/watch?v=bnuXC1wf6U4)
+[![Movie Seeker](Miscellaneous/ytb_album.png)](https://www.youtube.com/watch?v=bnuXC1wf6U4)
 
 ---
 
