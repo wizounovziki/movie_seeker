@@ -34,32 +34,45 @@ In this project, we build up a movie recommendation system using the knowledge a
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
+### [ 1 ] Prepare basic enviorment
 
-### [ 1 ] To run the system using iss-vm
+1. Install [nodejs (npm)](https://nodejs.org/en/download/) on the computer
 
-> download pre-built virtual machine from http://bit.ly/iss-vm
+2. Install yarn by typing in nodejs path : 
 
-> start iss-vm
+`$npm install yarn`
 
-> open terminal in iss-vm
+3. Install [python >=3.5](https://www.python.org/downloads/)
 
-> $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
+> Option: create an virtual enviorment of python:
 
-> $ source activate iss-env-py2
+`$python -m venv ./venv`
 
-> (iss-env-py2) $ cd Workshop-Project-Submission-Template/SystemCode/clips
+`$source activate venv/bin/activate` for Linux
 
-> (iss-env-py2) $ python app.py
+`$venv/script/activate` for Windows
 
-> **Go to URL using web browser** http://0.0.0.0:5000 or http://127.0.0.1:5000
+4. cd to the backend folder, run pip install requirements.txt
 
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
+`$cd PATH/OF/Virtual`
 
-> $ sudo apt-get install python-clips clips build-essential libssl-dev libffi-dev python-dev python-pip
+`$pip install -r requirements.txt`
 
-> $ pip install pyclips flask flask-socketio eventlet simplejson pandas
+5. cd to the frontend folder, run yarn build
+
+`$yarn build`
+
+### [ 2 ] Run the server
+
+6. Run the system, firstly go to the backend folder, run main.py (taking port 5001), then go to the frontend folder (taking port 3000), run yarn start. 
+`$ python main.py`
+`$ yarn start`
+8. **Go to URL using web browser** http://0.0.0.0:3000 or http://127.0.0.1:3000
+9. Account for testing:
+
+username:user3321@test.com password:user3321 (A sample of experienced user)
+
+username:user3323@test.com password:user3323 (A sample of new user)
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
