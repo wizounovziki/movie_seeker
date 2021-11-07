@@ -7,6 +7,7 @@ import HomeContainer from './components/HomeContainer.jsx'
 import AboutContainer from './components/AboutContainer.jsx'
 import MovieContainer from './components/MovieContainer.jsx'
 import LoginContainer from './components/LoginContainer.jsx'
+import RegisterContainer from './components/RegisterContainer.jsx'
 
 const { Header, Content, Footer } = Layout;
 export default class App extends React.Component{
@@ -15,7 +16,7 @@ export default class App extends React.Component{
 
         this.state={
             login:false,
-            user:'login'
+            user:'Login'
         }
     }
 
@@ -46,6 +47,8 @@ export default class App extends React.Component{
                     <Menu.Item key="2"><Link to="/movie">Movies</Link></Menu.Item>
                     <Menu.Item key="3"><Link to="/about">About</Link> </Menu.Item>
                     <Menu.Item style = {{"float":"right","margin-left": "auto" }} key="4"><Link to="/login">{this.state.user}</Link> </Menu.Item>
+                    <Menu.Item  key="5"><Link to="/register">Register</Link> </Menu.Item>
+                    
                 </Menu>
                 </Header>
                 {/* 中间的内容区域 */}
@@ -54,6 +57,7 @@ export default class App extends React.Component{
                    <Route path="/movie" component={MovieContainer}></Route>
                    <Route path="/about" component={AboutContainer}></Route>
                    <Route path="/login" component={LoginContainer}></Route>
+                   <Route path="/register" component={RegisterContainer}></Route>
               </Content>
                 {/*  */}
                 {/* <Footer style={{ textAlign: 'center' }}>Movies Recomendation ©2021 Created </Footer> */}
